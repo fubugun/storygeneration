@@ -1,0 +1,9 @@
+gradio>=5.0,<7.0
+
+# 真实模型推理时再安装下面这些依赖：
+# torch>=2.5
+# transformers>=4.51
+# accelerate>=1.2
+# peft>=0.15
+# bitsandbytes>=0.45
+

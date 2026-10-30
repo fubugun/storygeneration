@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+outputs/
+data/real/*.jsonl
+storygen_colab_bundle.zip
+*.safetensors
+adapter_model.bin
+

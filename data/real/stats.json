@@ -1,0 +1,13 @@
+{
+  "splits": {
+    "train": 4245,
+    "validation": 529,
+    "test": 438
+  },
+  "sources": {
+    "Jiann/STORAL": 4039,
+    "SuperYuanAI/PACE-SFT-DATASETS": 749,
+    "i0445/islm-stories": 424
+  },
+  "total": 5212
+}
